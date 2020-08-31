@@ -31,14 +31,7 @@ try:
 	def Banner():
 		Tik(''+C+'''
 	
- _____                         _____               
-/  ___|                       /  ___|              
-\ `--. _ __   __ _ _ __ ___   \ `--. _ __ ___  ___ 
- `--. \ '_ \ / _` | '_ ` _ \   `--. \ '_ ` _ \/ __|
-/\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
-\____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
-      | |                                          
-      |_|  '''+W+'Creator : Xploit-Nahrun Ganz0\n\t\tYT : Nahrun Ganz')
+ `/ymMMMMMMMMMmy/`                      `/ymMMMMMMMMMMMMMMMmy/`                    /hMMMMMMMMMMMMMMMMMMMMMMMh/                  /mMMmNMMMMMNNNNNNNNNMMMMMNNMMm/                `hNmo:dMMNNNmNNmNmNmNNmNNNMMd:omNh`               .mh:+/hMNNNNmNNmNdohmmNNmNNNNMy/o:hm.              `d+://sNmMMMmMMMhM++MmMMMmMMnMmNs///+d`              ys.o/oMmNNNmNNMNNMmmdMNNMNNmNNNmMo/o.ys             `my.-/NmMMMMmMMNmNNyiyNNmNMMmMMMMmN/:`ym`             -h/+s/MmMMMNmNNNdyY+++HmNNNmNMnMNmM:so/h-             -N.o.sMmMMMNh/:-`-MoHsM-`-:/hNMMMmMs.+.N-             `ho/-ohmMMMM/    -M/v+M.    /MMMMmho-/oh`              s+-s-odmNNN`     /-v:/     .NNNmd+:s-+s              `mo/-:+ymMm                 mMms+:-/om`               .h/+/y`hhs                 yyh`y/+/h.                `hd/::-+.                 .+-::/dy`                  /hs+/::.--           --.::/+sh:                    :hds+/-`           `-/+sdh:                      `/xmM+           +Mmx/`                         [-  YOUR NAME  -]                  .__=[ Username ° YOUR NAME  ]=__.      °×-- •• ••=[ I DO THIS BECAUSE I CAN DO IT ]=•• •• --×° """)       #     ##    ###    ###    ###    ###             #    ###            ##    ###           ### #########        ###  #######         ###   #####          ###    ###           ###     #         #########                #######                 #####                  ###                   #               '''+W+'Creator : Xploit-Nahrun Ganz\n\t\tYT : Nahrun Ganz')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
